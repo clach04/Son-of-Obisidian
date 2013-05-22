@@ -1,7 +1,7 @@
 " Port of http://studiostyles.info/schemes/son-of-obsidian
 " to vim
-" Last Change: 2010 sep 28
-" Version: 1.0
+" Last Change: 2013-05-21
+" Version: 1.1
 set background=dark
 hi clear
 if exists("syntax_on")
