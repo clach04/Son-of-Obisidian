@@ -1,5 +1,8 @@
 " Port of http://studiostyles.info/schemes/son-of-obsidian
 " to vim
+" from https://github.com/clach04/Son-of-Obisidian
+" To demo issue:
+"       :so $VIMRUNTIME/syntax/hitest.vim
 " Last Change: 2013-05-21
 " Version: 1.1
 set background=dark
