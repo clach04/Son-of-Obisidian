@@ -17,6 +17,7 @@ if has("gui_running")
 
     hi Comment          guifg=#99AA8A
     hi Normal           guifg=#FFFFFF guibg=#22282A
+    hi Ignore           guifg=#FFFFFF guibg=#22282A
     hi CursorLine       guibg=#32383A
     hi CursorColumn     guibg=#32383A
     hi Search           guibg=#808080
